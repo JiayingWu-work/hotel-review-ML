@@ -1,5 +1,5 @@
 # Predicting Hotel Reviewers’ Score And Clustering European Hotels
-***
+
 ## About The Project
 In this project, we used multiple machine learning tools to predict hotel reviewers’ score and understand what are some important aspects could impact the reviewers' score for European hotels. It is a final project for Stat253: Machine Learning at Macalester College. Please contact Jiaying (jwu4@macalester.edu) for any questions.
 
@@ -9,7 +9,7 @@ This project was built using R, and deployed using Netlify.
 ### Installation
 Please fork this repository and open the repo in R to check out our R code. Or you can simply check out deployed web with code: https://hotel-review-ml.netlify.app/
 
-***
+
 ## Machine Learning details
 ### Data Contect
 The data we use in this project is originally owned by Booking.com, but we used the version from kaggle.com https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
